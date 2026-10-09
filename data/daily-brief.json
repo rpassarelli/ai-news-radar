@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-09T07:27:27.710174Z",
+  "generated_at": "2026-10-09T09:11:09.029445Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a9ec40ee13cc",
+      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9689,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
+      "primary_item": {
+        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
+      }
+    },
     {
       "story_id": "story_a2fc4530694f",
       "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
@@ -18,7 +101,7 @@
           "title_en": "Today, we are announcing ChatGPT.",
           "title_original": "Today, we are announcing ChatGPT.",
           "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-          "recommend_reason_zh": "这是OpenAI宣布ChatGPT的公告，内容仅重复三遍「Today, we are announcing ChatGPT.」，末尾邀请查看最新动态并加入对话。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
@@ -31,8 +114,8 @@
           "title_zh": "Tibo 宣布发布 ChatGPT",
           "title_en": "Today, we are announcing ChatGPT. It is here: https://t.co/Pgk3THSyOJ",
           "title_original": "Today, we are announcing ChatGPT. It is here: https://t.co/Pgk3THSyOJ",
-          "summary": "Today, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\nToday, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\nToday, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\n查看最新动态并加入对话",
-          "recommend_reason_zh": "OpenAI 正式宣布推出 ChatGPT，并附上访问链接，正文为同一条发布声明重复三次，是这一产品首次对外亮相的原始公告，适合想追溯其发布起点的人阅读。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
@@ -53,7 +136,7 @@
           "title_en": "Today, we are announcing ChatGPT.",
           "title_original": "Today, we are announcing ChatGPT.",
           "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-          "recommend_reason_zh": "这是OpenAI宣布ChatGPT的公告，内容仅重复三遍「Today, we are announcing ChatGPT.」，末尾邀请查看最新动态并加入对话。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
@@ -66,8 +149,8 @@
           "title_zh": "Tibo 宣布发布 ChatGPT",
           "title_en": "Today, we are announcing ChatGPT. It is here: https://t.co/Pgk3THSyOJ",
           "title_original": "Today, we are announcing ChatGPT. It is here: https://t.co/Pgk3THSyOJ",
-          "summary": "Today, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\nToday, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\nToday, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ\n查看最新动态并加入对话",
-          "recommend_reason_zh": "OpenAI 正式宣布推出 ChatGPT，并附上访问链接，正文为同一条发布声明重复三次，是这一产品首次对外亮相的原始公告，适合想追溯其发布起点的人阅读。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://x.com/thsottiaux/status/2108349826727588000",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -103,103 +186,16 @@
         "title_en": "Today, we are announcing ChatGPT.",
         "title_original": "Today, we are announcing ChatGPT.",
         "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-        "recommend_reason_zh": "这是OpenAI宣布ChatGPT的公告，内容仅重复三遍「Today, we are announcing ChatGPT.」，末尾邀请查看最新动态并加入对话。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/thsottiaux/status/2108349826727588000",
         "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 8,
-      "persona_review": "ChatGPT 发布是 2022 年旧闻回锅，对今天写代码没有任何新信息。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
-      }
-    },
-    {
-      "story_id": "story_f913596b9697",
-      "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "primary_url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": "Oracle超10万员工用ChatGPT Work和Codex，130K活跃ChatGPT用户、95K+ Codex用户，招聘市场调研时间减少98%，准备从2-4天缩至15-20分钟，SRE简单故障从1小时到几分钟。",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": "Oracle超10万员工用ChatGPT Work和Codex，130K活跃ChatGPT用户、95K+ Codex用户，招聘市场调研时间减少98%，准备从2-4天缩至15-20分钟，SRE简单故障从1小时到几分钟。",
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7999,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
-      "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
-        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "summary": null,
-        "recommend_reason_zh": "Oracle超10万员工用ChatGPT Work和Codex，130K活跃ChatGPT用户、95K+ Codex用户，招聘市场调研时间减少98%，准备从2-4天缩至15-20分钟，SRE简单故障从1小时到几分钟。",
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "厂商客户案例，没新工具没价格，思路能瞄一眼，别指望照抄落地。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -217,7 +213,7 @@
           "title_en": "Triage role users or higher can now archive pull requests",
           "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
-          "recommend_reason_zh": "GitHub 让仓库中 triage role 及以上用户可 archive/unarchive pull requests，此前仅限 repository administrators，triage 需把例行管理工作交给更高权限者；归档常用于 spam、duplicate、abandoned PR，现在归档后 PR 完全只读，不再允许新活动。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -237,7 +233,7 @@
           "title_en": "Triage role users or higher can now archive pull requests",
           "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
-          "recommend_reason_zh": "GitHub 让仓库中 triage role 及以上用户可 archive/unarchive pull requests，此前仅限 repository administrators，triage 需把例行管理工作交给更高权限者；归档常用于 spam、duplicate、abandoned PR，现在归档后 PR 完全只读，不再允许新活动。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -247,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8357,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,41 +269,39 @@
         "title_en": "Triage role users or higher can now archive pull requests",
         "title_original": "Triage role users or higher can now archive pull requests",
         "summary": null,
-        "recommend_reason_zh": "GitHub 让仓库中 triage role 及以上用户可 archive/unarchive pull requests，此前仅限 repository administrators，triage 需把例行管理工作交给更高权限者；归档常用于 spam、duplicate、abandoned PR，现在归档后 PR 完全只读，不再允许新活动。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "仓库维护者现在可让 triage 角色归档过期 PR，少一堆手动清理，今天生效。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "story_id": "story_f913596b9697",
+      "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "primary_url": "https://openai.com/index/oracle",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
-          "recommend_reason_zh": "LegalOn 将每日 Codex 预估成本削减 65%，同时保持开发速度，并按照任务复杂度在 Astra、Luna、Sol 之间进行选型，配合策略性预算控制。",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -316,31 +310,31 @@
       ],
       "items": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
-          "recommend_reason_zh": "LegalOn 将每日 Codex 预估成本削减 65%，同时保持开发速度，并按照任务复杂度在 Astra、Luna、Sol 之间进行选型，配合策略性预算控制。",
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.755,
+        "ai_relevance": 0.99,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -349,27 +343,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-08T16:00:00Z",
+      "latest_at": "2026-10-08T16:00:00Z",
       "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
-        "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
-        "title_en": "LegalOn halves Codex costs while maintaining development speed",
-        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+        "title": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_zh": "Oracle 如何借助 ChatGPT 和 Codex 将数天工作缩短至几分钟",
+        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "summary": null,
-        "recommend_reason_zh": "LegalOn 将每日 Codex 预估成本削减 65%，同时保持开发速度，并按照任务复杂度在 Astra、Luna、Sol 之间进行选型，配合策略性预算控制。",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/oracle",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "客户案例，想省 Codex 成本的可以扫一眼，但没新工具。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -387,7 +379,7 @@
           "title_en": "Screen readers can navigate timelines as lists",
           "title_original": "Screen readers can navigate timelines as lists",
           "summary": null,
-          "recommend_reason_zh": "Screen reader 现在能把 issue 和 pull request 时间线当作列表导航，播报列表结构、条目数、当前位置和事件间移动方式；选择 Load more 后会宣布加载了多少事件，例如 11 new items loaded，该更新已在 github.com 和 GitHub Enterprise Server 3.23 推出。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -407,7 +399,7 @@
           "title_en": "Screen readers can navigate timelines as lists",
           "title_original": "Screen readers can navigate timelines as lists",
           "summary": null,
-          "recommend_reason_zh": "Screen reader 现在能把 issue 和 pull request 时间线当作列表导航，播报列表结构、条目数、当前位置和事件间移动方式；选择 Load more 后会宣布加载了多少事件，例如 11 new items loaded，该更新已在 github.com 和 GitHub Enterprise Server 3.23 推出。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -417,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8001,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,41 +435,39 @@
         "title_en": "Screen readers can navigate timelines as lists",
         "title_original": "Screen readers can navigate timelines as lists",
         "summary": null,
-        "recommend_reason_zh": "Screen reader 现在能把 issue 和 pull request 时间线当作列表导航，播报列表结构、条目数、当前位置和事件间移动方式；选择 Load more 后会宣布加载了多少事件，例如 11 new items loaded，该更新已在 github.com 和 GitHub Enterprise Server 3.23 推出。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "GitHub 自己做了无障碍改造，做前端的可以照抄这个语义化列表思路，其他人不用管。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
-      "story_id": "story_db170a853e6a",
-      "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-      "url": "https://www.aibase.com/news/31503",
-      "primary_url": "https://www.aibase.com/news/31503",
+      "story_id": "story_891ef0a1c70a",
+      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+      "url": "https://www.aibase.com/news/31506",
+      "primary_url": "https://www.aibase.com/news/31506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "summary": "Artificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 于10月8日推出 OSS Scanner，用包括 Claude Mythos 的最强模型为全球开源软件免费定期扫漏洞，此前半年已发现超29,000个候选漏洞，仅约6,000个经人工审核。",
-          "url": "https://www.aibase.com/news/31503",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "source_count": 1,
@@ -486,18 +476,18 @@
       ],
       "items": [
         {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "summary": "Artificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 于10月8日推出 OSS Scanner，用包括 Claude Mythos 的最强模型为全球开源软件免费定期扫漏洞，此前半年已发现超29,000个候选漏洞，仅约6,000个经人工审核。",
-          "url": "https://www.aibase.com/news/31503",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "item_count": 1,
@@ -518,27 +508,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:27:27.710174Z",
-      "latest_at": "2026-10-09T07:27:27.710174Z",
+      "earliest_at": "2026-10-09T09:11:09.029445Z",
+      "latest_at": "2026-10-09T09:11:09.029445Z",
       "primary_item": {
-        "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-        "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
         "title_en": null,
-        "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "summary": "Artificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nArtificial intelligence company Anthropic officially announced the launch of a new optional vulnerability detection service called OSS Scanner on October 8th lo\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic 于10月8日推出 OSS Scanner，用包括 Claude Mythos 的最强模型为全球开源软件免费定期扫漏洞，此前半年已发现超29,000个候选漏洞，仅约6,000个经人工审核。",
-        "url": "https://www.aibase.com/news/31503",
+        "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31506",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "开源维护者能白嫖一次AI漏洞扫描；先确认支持的语言栈和申请门槛，别指望它替你修。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -556,7 +544,7 @@
           "title_en": null,
           "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
           "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
-          "recommend_reason_zh": "金融时报曝 OpenAI 截至9月底年化营收逼近500亿美元，较此前估算的700亿低约200亿，因统计口径未计入AWS、谷歌云等合作收入，报道后纳斯达克100跌1.4%。",
+          "recommend_reason_zh": null,
           "url": "https://www.ithome.com/1/010/751.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
@@ -576,7 +564,7 @@
           "title_en": null,
           "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
           "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
-          "recommend_reason_zh": "金融时报曝 OpenAI 截至9月底年化营收逼近500亿美元，较此前估算的700亿低约200亿，因统计口径未计入AWS、谷歌云等合作收入，报道后纳斯达克100跌1.4%。",
+          "recommend_reason_zh": null,
           "url": "https://www.ithome.com/1/010/751.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
@@ -586,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -611,18 +599,16 @@
         "title_en": null,
         "title_original": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
         "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
-        "recommend_reason_zh": "金融时报曝 OpenAI 截至9月底年化营收逼近500亿美元，较此前估算的700亿低约200亿，因统计口径未计入AWS、谷歌云等合作收入，报道后纳斯达克100跌1.4%。",
+        "recommend_reason_zh": null,
         "url": "https://www.ithome.com/1/010/751.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "营收差多少跟你无关，除非它拿这个理由涨价或砍免费额度。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -640,7 +626,7 @@
           "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
           "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
           "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-          "recommend_reason_zh": "AHM 呼吁 boycott OpenAI：后者一次发布700多篇AI生成数学手稿，次日因符号错误撤回三篇，Terence Tao警告AI大规模“收割”开放问题会使数学分支贫瘠。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -660,7 +646,7 @@
           "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
           "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
           "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-          "recommend_reason_zh": "AHM 呼吁 boycott OpenAI：后者一次发布700多篇AI生成数学手稿，次日因符号错误撤回三篇，Terence Tao警告AI大规模“收割”开放问题会使数学分支贫瘠。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -670,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8268,
+        "recency": 0.8064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,18 +681,16 @@
         "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
         "title_original": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
         "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-        "recommend_reason_zh": "AHM 呼吁 boycott OpenAI：后者一次发布700多篇AI生成数学手稿，次日因符号错误撤回三篇，Terence Tao警告AI大规模“收割”开放问题会使数学分支贫瘠。",
+        "recommend_reason_zh": null,
         "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "抵制不耽误你调 API，但别把模型生成的证明当成品交出去。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -724,7 +708,7 @@
           "title_en": "A note from our research leaders:",
           "title_original": "A note from our research leaders:",
           "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": "研究负责人发声明称，上周已与 Jasmine、Mikita 和 Tomek 分道扬镳，彻底调查认定三人违反敏感信息处理政策，内部调查还揭露了超出公开信所述范围的严重信任破裂。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
           "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
           "source_name": "AI HOT",
@@ -744,7 +728,7 @@
           "title_en": "A note from our research leaders:",
           "title_original": "A note from our research leaders:",
           "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-          "recommend_reason_zh": "研究负责人发声明称，上周已与 Jasmine、Mikita 和 Tomek 分道扬镳，彻底调查认定三人违反敏感信息处理政策，内部调查还揭露了超出公开信所述范围的严重信任破裂。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
           "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
           "source_name": "AI HOT",
@@ -754,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -779,18 +763,99 @@
         "title_en": "A note from our research leaders:",
         "title_original": "A note from our research leaders:",
         "summary": "OpenAI 研究负责人发声明，称上周在调查发现 Jasmine、Mikita 和 Tomek 违反敏感信息处理政策后终止其雇佣，并表示内部调查发现超出三人公开信所述的重大信任违规。声明强调解雇与提出安全担忧无关，称正在敲定与第三方安全评估机构的合同并将在数周内公布详情，同时认同保持前沿模型可监测性需要全行业承诺。",
-        "recommend_reason_zh": "研究负责人发声明称，上周已与 Jasmine、Mikita 和 Tomek 分道扬镳，彻底调查认定三人违反敏感信息处理政策，内部调查还揭露了超出公开信所述范围的严重信任破裂。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/OpenAINewsroom/status/2108441580806025712",
         "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "离职争议加公关声明，没产品没接口，跟你的代码今天没关系。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
+      }
+    },
+    {
+      "story_id": "story_65da7bfcfb81",
+      "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7364,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+        "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+        "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
+        "title_en": "LegalOn halves Codex costs while maintaining development speed",
+        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -808,7 +873,7 @@
           "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
           "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
           "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": "Mistral Large 4 by @MistralAI 进入 Agent Arena top 15 labs，在 +5K 真实智能体会话中 preview 净改进得分 -6.6%，比 Mistral Medium 3.5 的 -12.60% 高 11 位，总排名 #43。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2108405474391728357",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -828,7 +893,7 @@
           "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
           "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
           "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-          "recommend_reason_zh": "Mistral Large 4 by @MistralAI 进入 Agent Arena top 15 labs，在 +5K 真实智能体会话中 preview 净改进得分 -6.6%，比 Mistral Medium 3.5 的 -12.60% 高 11 位，总排名 #43。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2108405474391728357",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -838,15 +903,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,103 +928,16 @@
         "title_en": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
         "title_original": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!",
         "summary": "Arena 宣布 Mistral Large 4 进入 Agent Arena 前十五实验室，基于超 5000 个真实智能体会话，该预览版净改进分为 -6.6%，总排名第 43，比前代 Mistral Medium 3.5（-12.60%）高出 11 位。",
-        "recommend_reason_zh": "Mistral Large 4 by @MistralAI 进入 Agent Arena top 15 labs，在 +5K 真实智能体会话中 preview 净改进得分 -6.6%，比 Mistral Medium 3.5 的 -12.60% 高 11 位，总排名 #43。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/arena/status/2108405474391728357",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 47,
-      "persona_review": "榜上第43，能用但进不了第一梯队；选型时塞进备选名单即可，不用急着迁移。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
-      }
-    },
-    {
-      "story_id": "story_e323adeab1da",
-      "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "Pollo AI 用 OpenAI 的 GPT-6 Astra 和 GPT-Image-2.5 驱动 Pollo Agent，服务超 2600 万用户，称模型选择时间减少逾 50%。",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "Pollo AI 用 OpenAI 的 GPT-6 Astra 和 GPT-Image-2.5 驱动 Pollo Agent，服务超 2600 万用户，称模型选择时间减少逾 50%。",
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.755,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
-        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": "Pollo AI 用 OpenAI 的 GPT-6 Astra 和 GPT-Image-2.5 驱动 Pollo Agent，服务超 2600 万用户，称模型选择时间减少逾 50%。",
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "OpenAI 的客户案例软文，讲别人怎么用，没新接口没新价格，看完学不到能落地的东西。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -977,7 +955,7 @@
           "title_en": "Draft pull requests count toward pull request limits",
           "title_original": "Draft pull requests count toward pull request limits",
           "summary": null,
-          "recommend_reason_zh": "GitHub：pull request limits 现将 draft pull requests 计入，堵上此前草稿不计数、可无限开启的漏洞，减少通知与杂乱。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -997,7 +975,7 @@
           "title_en": "Draft pull requests count toward pull request limits",
           "title_original": "Draft pull requests count toward pull request limits",
           "summary": null,
-          "recommend_reason_zh": "GitHub：pull request limits 现将 draft pull requests 计入，堵上此前草稿不计数、可无限开启的漏洞，减少通知与杂乱。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1007,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.782,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1033,18 +1011,16 @@
         "title_en": "Draft pull requests count toward pull request limits",
         "title_original": "Draft pull requests count toward pull request limits",
         "summary": null,
-        "recommend_reason_zh": "GitHub：pull request limits 现将 draft pull requests 计入，堵上此前草稿不计数、可无限开启的漏洞，减少通知与杂乱。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "爱拿草稿 PR 当待办堆着的团队要留意，积多了会顶到上限被卡。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -1062,7 +1038,7 @@
           "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
           "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
           "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": "Google 新图像模型 Nano Banana 2.1 于10月6日发布，基于 Gemini 3.6 Flash，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个评测榜单上均位列第4，价格却只有 Nano Banana 2 的一半，并同时取代了 Gemini API 上的 Nano Banana 2。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1082,7 +1058,7 @@
           "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
           "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
           "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-          "recommend_reason_zh": "Google 新图像模型 Nano Banana 2.1 于10月6日发布，基于 Gemini 3.6 Flash，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个评测榜单上均位列第4，价格却只有 Nano Banana 2 的一半，并同时取代了 Gemini API 上的 Nano Banana 2。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1092,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8082,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,41 +1092,39 @@
         "title_en": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
         "title_original": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
         "summary": "Artificial Analysis 评测 Google 于 10 月 6 日发布的图像模型 Nano Banana 2.1，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个榜单均排名第 4。",
-        "recommend_reason_zh": "Google 新图像模型 Nano Banana 2.1 于10月6日发布，基于 Gemini 3.6 Flash，在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 两个评测榜单上均位列第4，价格却只有 Nano Banana 2 的一半，并同时取代了 Gemini API 上的 Nano Banana 2。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "图像生成 API 半价且仍在第一梯队，跑批量出图的今天就能换省成本。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
-      "story_id": "story_535b22a16c43",
-      "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-      "url": "https://www.aibase.com/news/31502",
-      "primary_url": "https://www.aibase.com/news/31502",
+      "story_id": "story_76c6e547b2cc",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-          "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "title_en": null,
-          "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "summary": "Leading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nExplore AI Fronti",
-          "recommend_reason_zh": "JetBrains 正式发布编程 AI 模型 Mellum2.1，沿用 12B MoE 架构和开源许可，将强化学习扩展至数百万沙箱环境，并借多 Token 预测把单请求响应速度提升约 1.6 倍，高负载吞吐量接近 Qwen3.5-9B 的两倍。",
-          "url": "https://www.aibase.com/news/31502",
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "source_count": 1,
@@ -1159,18 +1133,18 @@
       ],
       "items": [
         {
-          "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-          "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "title_en": null,
-          "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "summary": "Leading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nExplore AI Fronti",
-          "recommend_reason_zh": "JetBrains 正式发布编程 AI 模型 Mellum2.1，沿用 12B MoE 架构和开源许可，将强化学习扩展至数百万沙箱环境，并借多 Token 预测把单请求响应速度提升约 1.6 倍，高负载吞吐量接近 Qwen3.5-9B 的两倍。",
-          "url": "https://www.aibase.com/news/31502",
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31509",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "item_count": 1,
@@ -1191,110 +1165,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:27:27.710174Z",
-      "latest_at": "2026-10-09T07:27:27.710174Z",
+      "earliest_at": "2026-10-09T09:11:09.029445Z",
+      "latest_at": "2026-10-09T09:11:09.029445Z",
       "primary_item": {
-        "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-        "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-        "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
         "title_en": null,
-        "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-        "summary": "Leading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nLeading development tool vendor JetBrains has officially released the new Mellum2.1 programming AI model, with a focus on significantly enhancing the agent prog\nExplore AI Fronti",
-        "recommend_reason_zh": "JetBrains 正式发布编程 AI 模型 Mellum2.1，沿用 12B MoE 架构和开源许可，将强化学习扩展至数百万沙箱环境，并借多 Token 预测把单请求响应速度提升约 1.6 倍，高负载吞吐量接近 Qwen3.5-9B 的两倍。",
-        "url": "https://www.aibase.com/news/31502",
+        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31509",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "JetBrains 用户补全可能变快，但没开放 API，非用户直接忽略。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
-      }
-    },
-    {
-      "story_id": "story_6e2cc0057ae4",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "primary_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "source": "Comfy Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": "作者在单张 RTX 5090（32GB）上构建 ComfyStreamerH3，试图让 MiniMax H3 以 448×256 在 15 秒内生成 15 秒视频，并用 FastH3 V2 四步采样、VSA 只算 20% 视频块、ClipProj 把文本编码器从 15.7GB 降到 4.5GB 等优化，而单卡租用最低约 70¢/小时。",
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Comfy Blog"
-      ],
-      "items": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": "作者在单张 RTX 5090（32GB）上构建 ComfyStreamerH3，试图让 MiniMax H3 以 448×256 在 15 秒内生成 15 秒视频，并用 FastH3 V2 四步采样、VSA 只算 20% 视频块、ClipProj 把文本编码器从 15.7GB 降到 4.5GB 等优化，而单卡租用最低约 70¢/小时。",
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8356,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T19:01:22Z",
-      "latest_at": "2026-10-08T19:01:22Z",
-      "primary_item": {
-        "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-        "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-        "recommend_reason_zh": "作者在单张 RTX 5090（32GB）上构建 ComfyStreamerH3，试图让 MiniMax H3 以 448×256 在 15 秒内生成 15 秒视频，并用 FastH3 V2 四步采样、VSA 只算 20% 视频块、ClipProj 把文本编码器从 15.7GB 降到 4.5GB 等优化，而单卡租用最低约 70¢/小时。",
-        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-        "source": "Comfy Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "单卡5090跑实时视频生成，教程可照着复现；先确认权重是否放开再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -1342,15 +1231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1372,35 +1261,116 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 74,
-      "persona_review": "跑 AWS AgentCore 的赶紧审查 Agent 间信任边界，一条提示词就能横向接管全账号。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
-      "story_id": "story_378144591198",
-      "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-      "url": "https://www.aibase.com/news/31504",
-      "primary_url": "https://www.aibase.com/news/31504",
+      "story_id": "story_e323adeab1da",
+      "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "primary_url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7364,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "e441138912907d022d550626c930aa4e578bbe9e",
+        "title": "Pollo AI 携手 OpenAI，把创意点子变成营销活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_zh": "Pollo AI 携手 OpenAI，把创意点子变成营销活动",
+        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
+      }
+    },
+    {
+      "story_id": "story_cc5200c63851",
+      "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+      "url": "https://www.aibase.com/news/31505",
+      "primary_url": "https://www.aibase.com/news/31505",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "summary": "On October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nExplore AI Fronti",
-          "recommend_reason_zh": "10月9日DouBao Work新增无限画布：图片、视频、HTML自动汇入，接入Seedream 5.0 Flash，DouBao 2.1 Lite上线更省额度",
-          "url": "https://www.aibase.com/news/31504",
+          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31505",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "source_count": 1,
@@ -1409,18 +1379,18 @@
       ],
       "items": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "summary": "On October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nExplore AI Fronti",
-          "recommend_reason_zh": "10月9日DouBao Work新增无限画布：图片、视频、HTML自动汇入，接入Seedream 5.0 Flash，DouBao 2.1 Lite上线更省额度",
-          "url": "https://www.aibase.com/news/31504",
+          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31505",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "item_count": 1,
@@ -1441,27 +1411,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:27:27.710174Z",
-      "latest_at": "2026-10-09T07:27:27.710174Z",
+      "earliest_at": "2026-10-09T09:11:09.029445Z",
+      "latest_at": "2026-10-09T09:11:09.029445Z",
       "primary_item": {
-        "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-        "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-        "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+        "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
         "title_en": null,
-        "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-        "summary": "On October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nOn October 9th, DouBao officially announced that \"DouBao Work\" has received dual updates: the task mode now adds a canvas feature and integrates a new image mod\nExplore AI Fronti",
-        "recommend_reason_zh": "10月9日DouBao Work新增无限画布：图片、视频、HTML自动汇入，接入Seedream 5.0 Flash，DouBao 2.1 Lite上线更省额度",
-        "url": "https://www.aibase.com/news/31504",
+        "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31505",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "做多模态创作产品的可参考它的画布交互，写后端的不必点开。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -1479,7 +1447,7 @@
           "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
           "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
           "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
-          "recommend_reason_zh": "Claude Haiku 5.5 (High)在Code Arena: WebDev首秀1587分列第30，与GPT-6 Luna同价$0.10/$0.50。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2108286973119230096",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -1499,7 +1467,7 @@
           "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
           "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
           "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
-          "recommend_reason_zh": "Claude Haiku 5.5 (High)在Code Arena: WebDev首秀1587分列第30，与GPT-6 Luna同价$0.10/$0.50。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2108286973119230096",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
@@ -1509,15 +1477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1533,18 +1501,16 @@
         "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
         "title_original": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
         "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
-        "recommend_reason_zh": "Claude Haiku 5.5 (High)在Code Arena: WebDev首秀1587分列第30，与GPT-6 Luna同价$0.10/$0.50。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/arena/status/2108286973119230096",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "Haiku 新版本代码能力中游，30 名不算突破；等 API 价格公布再决定要不要换便宜档。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
@@ -1562,7 +1528,7 @@
           "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
           "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
           "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-          "recommend_reason_zh": "CrowdStrike 称，一名疑似说中文的攻击者用搭载 DeepSeek 与 GLM-5.3 的 ARTEX 工具，于2026年9月底至10月初入侵多家韩国金融机构，仅在 Shinhan Bank 就窃取逾2.5万条含姓名、收入与信用额度的客户记录。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -1582,7 +1548,7 @@
           "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
           "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
           "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-          "recommend_reason_zh": "CrowdStrike 称，一名疑似说中文的攻击者用搭载 DeepSeek 与 GLM-5.3 的 ARTEX 工具，于2026年9月底至10月初入侵多家韩国金融机构，仅在 Shinhan Bank 就窃取逾2.5万条含姓名、收入与信用额度的客户记录。",
+          "recommend_reason_zh": null,
           "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
@@ -1592,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1616,41 +1582,39 @@
         "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
         "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
         "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
-        "recommend_reason_zh": "CrowdStrike 称，一名疑似说中文的攻击者用搭载 DeepSeek 与 GLM-5.3 的 ARTEX 工具，于2026年9月底至10月初入侵多家韩国金融机构，仅在 Shinhan Bank 就窃取逾2.5万条含姓名、收入与信用额度的客户记录。",
+        "recommend_reason_zh": null,
         "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "看点是攻击门槛降了，防守方该复查凭证与异常登录；但不是你能立刻上手的工具，白皮书级别。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     },
     {
-      "story_id": "story_8396ceabf3ca",
-      "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-      "url": "https://www.aibase.com/news/31501",
-      "primary_url": "https://www.aibase.com/news/31501",
+      "story_id": "story_185338d9449e",
+      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+      "url": "https://www.aibase.com/news/31507",
+      "primary_url": "https://www.aibase.com/news/31507",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "title_en": null,
-          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "summary": "Microsoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nExplore AI Fronti",
-          "recommend_reason_zh": "Neowin称Microsoft或让Microsoft 365 Family和Premium主订阅者把Copilot分享给最多5名家人，管理未成年权限，额度合并成共享池。",
-          "url": "https://www.aibase.com/news/31501",
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "source_count": 1,
@@ -1659,18 +1623,18 @@
       ],
       "items": [
         {
-          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "title_en": null,
-          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "summary": "Microsoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nExplore AI Fronti",
-          "recommend_reason_zh": "Neowin称Microsoft或让Microsoft 365 Family和Premium主订阅者把Copilot分享给最多5名家人，管理未成年权限，额度合并成共享池。",
-          "url": "https://www.aibase.com/news/31501",
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:27:27.710174Z"
+          "published_at": "2026-10-09T09:11:09.029445Z"
         }
       ],
       "item_count": 1,
@@ -1691,27 +1655,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:27:27.710174Z",
-      "latest_at": "2026-10-09T07:27:27.710174Z",
+      "earliest_at": "2026-10-09T09:11:09.029445Z",
+      "latest_at": "2026-10-09T09:11:09.029445Z",
       "primary_item": {
-        "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-        "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-        "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
         "title_en": null,
-        "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-        "summary": "Microsoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nMicrosoft is reportedly planning significant changes to the distribution mechanism of its generative AI service, Copilot, and is considering removing the previo\nExplore AI Fronti",
-        "recommend_reason_zh": "Neowin称Microsoft或让Microsoft 365 Family和Premium主订阅者把Copilot分享给最多5名家人，管理未成年权限，额度合并成共享池。",
-        "url": "https://www.aibase.com/news/31501",
+        "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31507",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "只是传闻未落地，对写代码的人没影响；家庭订阅用户可等正式公告再算账。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-09T07:41:07.071160Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T09:11:54.128110Z"
       }
     }
   ]
